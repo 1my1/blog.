@@ -38,3 +38,20 @@ description: English translation
 >3.冯友兰，中国思想史上20世纪伟大的的权威之一，把孔子在中国历史上的影响比作西方的苏格拉底。
 
 >Fung Youlan,one of the great 20th century [authorities](http://dict.youdao.com/w/authorities/#keyfrom=dict2.top "当局,官方") on the history of Chinese,compare ConfUcius influence in Chinese history with that of Socrates in West.
+
+
+### Graduates And Job ###
+
+
+>1.许多刚毕业的大学生找不到工作，在校学生则担心他们的未来。
+>
+>Many recent college graduates can't find a job and students are fearful about their future.
+
+>2.多个调查显示，三分之二的中国毕业生想在政府或者国有企业工作，而不是为中国令人瞩目的经济增长提供动力的民营企业。
+>
+>Two-thirds of chinese graduates say they want to work either in government or [state-owned](http://dict.youdao.com/w/state-owned/#keyfrom=dict2.top "国有的") [firms](http://dict.youdao.com/w/firms/#keyfrom=dict2.top "公司 变得坚实"),which are seen as [recession](http://dict.youdao.com/w/recession/#keyfrom=dict2.top "衰退 不景气")-[proof](http://dict.youdao.com/w/proof/#keyfrom=dict2.top "证明,证据 防..的 试验,校对"),rather than at the private companies that have powered China's [remarkable](http://dict.youdao.com/w/remarkable/#keyfrom=dict2.top "卓越的 非凡的") economic climb,surveys indicate.
+>
+>3.如今几乎没有大学生愿意放弃政府的铁饭碗而下海、加入初创企业或自己创业。
+>
+>Few students today,according to the surveys,are ready to leave the safe [shores](http://dict.youdao.com/w/shore/#keyfrom=dict2.top "海滨") of government work and jump into the sea join startups or go into business 
+

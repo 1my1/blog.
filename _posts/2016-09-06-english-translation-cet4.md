@@ -55,3 +55,60 @@ description: English translation
 >
 >Few students today,according to the surveys,are ready to leave the safe [shores](http://dict.youdao.com/w/shore/#keyfrom=dict2.top "海滨") of government work and jump into the sea join startups or go into business 
 
+### Modem Humans ###
+
+>1.现代人类约公元前50000年第一次从中亚或印度来到中国。
+>
+>Modem humans first came to China from Central Asia or India about 50,000 BC.
+>
+>2.这些石器时代(Stone Age)的人，居住在洞穴中，穿着毛皮。
+>
+>There were Stone Age people,who lived in caves and wore fur and leather.
+>
+>3.公元前 4000年左右，这些人开始种植水稻，并饲养羊和鸡。
+>
+>By around 4000 BC,these people starting to farm rice,and keep sheep and chickens.
+>
+>4.约公元前3000年，他们开始使用陶器(pottery)并住在房子里。
+>
+>By about 3000 BC,they start using pottery and living in houses.
+>
+>5.到公元前2000年，中国人已进入青铜时代(Bronze Age)，并开始用于写字。
+>
+>By 2000 BC,Chinese had entered the Bronze Age and had begun to use writing.
+>
+>6.约公元前700年，中国的金属工人学会制作铁器工具和武器。
+>
+>By about 700 BC,Chinese metal-workers learned to make iron tools and weapons.
+
+
+### Beijing Opera ###
+
+>1.京剧(Beijing Opera)是中国的国粹。
+>
+>Beijing Opera is the cream of Chinese culture.
+>
+>2.作为一门古老的艺术，京剧的服装（costume)、脸谱(facial mask)更易被人喜爱。
+>
+>As a traditional art form,its costumes,facial mask are more pupolar with people.
+>
+>3.不同的服装类型反映不同的人物身份特征。
+>
+>Different costumes are used to reflect the status of different characters. 
+>
+>4.富贵者的服装缀满精美的刺绣;穷困者的服装则简单朴素，少有装饰(elemental)。
+>
+>There are more [decorations](http://dict.youdao.com/w/decorations/#keyfrom=dict2.top "装饰品") in the costumes of [nobles](http://dict.youdao.com/w/noble/#keyfrom=dict2.top "高尚的 贵族");while those of the poor tend to simple and less elemental.
+>
+>5.脸谱是京剧中塑造人物形象的重要手段，它是用不同的颜色在脸上勾画出来的。
+>
+>Facial masks can reflect qualities of different charaters,facial mask using different colors are important ways to [portray](http://dict.youdao.com/w/portray/#keyfrom=dict2.top "描绘") a charater.
+>
+>6.脸谱的颜色让人一看便知角色(portray)的善恶。
+>
+>People can tell a hero from a [villain](http://dict.youdao.com/w/villain/#keyfrom=dict2.top "坏人 恶棍") by the colors of the masks.
+>
+>7.比如白色代表奸诈(treachery)，黑色代表正直不阿，黄色是骁勇，蓝、绿色多用于绿林好汉(rebellious fighters)，金、银色多用于神佛(divinity and Buddhism)等。
+>
+>In general,white represents treachery,black represents [righteousness](http://dict.youdao.com/w/righteousness/#keyfrom=dict2.top "正义 正直"),yellow represents bravery,blue and green represent rebellious fighters, while glod and silver represent divinity and Buddhism.
+

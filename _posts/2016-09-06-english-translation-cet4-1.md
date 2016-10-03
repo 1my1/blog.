@@ -112,3 +112,18 @@ description: English translation
 >
 >In general,white represents treachery,black represents [righteousness](http://dict.youdao.com/w/righteousness/#keyfrom=dict2.top "正义 正直"),yellow represents bravery,blue and green represent rebellious fighters, while glod and silver represent divinity and Buddhism.
 
+
+
+### Global Warning ###
+
+>1.目前，全球变暖是一个热门话题，但是有关全球变暖的各项证据似乎还有些不同的声音。
+>
+>Global warning is the hot topic around the world at this time but,there is also dissention about the evidence being presented to support the argument.
+>
+>2.地球的发展经历了很多周期(cycle),尽管在历史上还未出现过像今天这样的时代，即高度工业化(industrialization)产生如此多的污染。
+>
+>The earth is known to go through cycles,although the past has never produced an age of so much industrialization causing the pullotion currently being experienced
+>
+>3.全球变暖主要是由于二氧化碳气体(carbon dioxide)的增多。
+>
+>A major source of problem is the increase in carbon dioxide levels.
